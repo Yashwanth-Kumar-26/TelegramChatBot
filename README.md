@@ -102,8 +102,8 @@ TeleChatbot/
 
 ### Environment Variables (.env)
 ```env
-BOT_TOKEN=8051036952:AAF1mdBR3QfoP6WxyrqurnJDpzpTO8wfQX8
-OPENROUTER_API_KEY=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
+BOT_TOKEN="@your_telegram_bot_token"
+OPENROUTER_API_KEY="@your_api_key"
 ```
 
 ### Model Configuration
