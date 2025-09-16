@@ -34,13 +34,13 @@ An advanced Telegram bot powered by OpenRouter, featuring multiple AI models, in
 1. **Clone or Download the Project**
    ```bash
    # If using git
-   git clone <repository-url>
-   cd TeleChatbot
+   git clone https://github.com/Yashwanth-Kumar-26/TelegramChatBot.git
+   cd TelegramChatBot
    ```
 
 2. **Install Dependencies**
    ```bash
-   pip install -r ../requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. **Configure Environment**
