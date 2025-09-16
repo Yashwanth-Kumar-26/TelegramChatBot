@@ -1,0 +1,42 @@
+[
+  {
+    "id": "deepseek/deepseek-chat-v3.1:free",
+    "name": "🧠 DeepSeek R1 V3",
+    "description": "Fast and efficient reasoning model ⚡"
+  },
+  {
+    "id": "openai/gpt-oss-120b:free",
+    "name": "🤖 GPT-OSS 120B",
+    "description": "Open-source alternative to GPT-4 🚀"
+  },
+  {
+    "id": "qwen/qwen3-coder:free",
+    "name": "💻 Qwen3 Coder",
+    "description": "Specialized in coding tasks 🛠️"
+  },
+  {
+    "id": "meta-llama/llama-3.2-3b-instruct:free",
+    "name": "🦙 Llama 3.2 3B",
+    "description": "Lightweight and versatile open-source model 🌟"
+  },
+  {
+    "id": "microsoft/wizardlm-2-8x22b:free",
+    "name": "🧙‍♂️ WizardLM-2 8x22B",
+    "description": "Advanced reasoning and coding capabilities ✨"
+  },
+  {
+    "id": "mistralai/mistral-7b-instruct:free",
+    "name": "🌪️ Mistral 7B",
+    "description": "Powerful open-source chat model 🔥"
+  },
+  {
+    "id": "huggingface/zephyr-7b-beta:free",
+    "name": "🌬️ Zephyr 7B Beta",
+    "description": "Fine-tuned for helpful conversations 💬"
+  },
+  {
+    "id": "openrouter/sonoma-sky-alpha",
+    "name": "☁️ Sonoma Sky Alpha",
+    "description": "Next-gen open-source model 🌈"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "openai/gpt-4o",
+    "name": "🚀 GPT-4o",
+    "description": "Most advanced GPT-4 model with vision 👁️"
+  },
+  {
+    "id": "anthropic/claude-3-5-sonnet",
+    "name": "🧠 Claude 3.5 Sonnet",
+    "description": "Anthropic's most intelligent model 🏆"
+  },
+  {
+    "id": "openai/gpt-4o-mini",
+    "name": "⚡ GPT-4o Mini",
+    "description": "Compact version of GPT-4 with advanced capabilities 💪"
+  },
+  {
+    "id": "google/gemini-pro-1.5",
+    "name": "🌟 Gemini Pro 1.5",
+    "description": "Google's advanced multimodal model 🎨"
+  },
+  {
+    "id": "meta-llama/llama-3.1-70b-instruct",
+    "name": "🦙 Llama 3.1 70B",
+    "description": "Meta's largest open-source model 🏔️"
+  }
+]
