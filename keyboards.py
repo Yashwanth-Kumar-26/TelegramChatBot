@@ -1,8 +1,8 @@
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 import json
 
-def load_models(file_path):
-    with open(file_path, 'r') as f:
+def load_models(filename):
+    with open(filename, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def main_menu_keyboard():
