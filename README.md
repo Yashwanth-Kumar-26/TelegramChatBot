@@ -44,7 +44,7 @@ An advanced Telegram bot powered by OpenRouter, featuring multiple AI models, in
    ```
 
 3. **Configure Environment**
-   - Rename `.env.example` to `.env` and update the values:
+   - Rename `env.example` to `.env` and update the values:
    ```env
    BOT_TOKEN=your_telegram_bot_token_here
    OPENROUTER_API_KEY=your_openrouter_api_key_here
